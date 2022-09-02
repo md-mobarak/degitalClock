@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+
+
+}
+
+body {
+  background-color: teal;
+}
+
+.mobarak {
+  color: #282c34;
+  font-size: 50px;
+}
+
+.time {
+  margin-top: 200px;
+  font-size: 150px;
+  color: #282c34;
 }
 
 .App-logo {
@@ -32,6 +49,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
